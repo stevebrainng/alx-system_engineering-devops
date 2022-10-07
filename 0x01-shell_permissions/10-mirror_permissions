@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=olleh hello /*create file 'olleh' before gitting*/
+chmod --reference=olleh hello
