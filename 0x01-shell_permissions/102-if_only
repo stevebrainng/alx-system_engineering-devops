@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --from=__guillaume betty hello
